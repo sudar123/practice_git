@@ -1,6 +1,7 @@
 My first change in master
 A
 A1
+A2
 B
 B1
 C
