@@ -1,2 +1,3 @@
 My first change in master
 A
+B
