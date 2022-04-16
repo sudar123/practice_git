@@ -1,3 +1,5 @@
 My first change in master
 
+I add a new feature
 I add something parallel in master
+I add second something in master
